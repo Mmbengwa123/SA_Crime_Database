@@ -21,15 +21,15 @@ This repository is intended to:
 The main table models case details for criminal investigations.
 
 Key fields include:
-- `RecordID` — unique case record identifier.
-- `FirstName`, `LastName`, `FullName` — suspect identity fields.
-- `Age`, `Gender`, `Country`, `Province` — demographic attributes.
-- `SouthAfricanID`, `CaseNumber` — identity and case tracking keys.
-- `CrimeType`, `RiskLevel`, `CaseStatus` — classification and status fields.
-- `FinancialScore`, `EstimatedFraudAmount_ZAR` — risk and financial exposure metrics.
-- `BankInvolved`, `PreviousOffenses`, `Arrested` — operational and enforcement indicators.
-- `CrimeDate`, `CourtDate` — temporal context for incidents and legal processing.
-- `InvestigatingOfficer`, `StationCode` — investigative ownership and location metadata.
+- `RecordID` - unique case record identifier.
+- `FirstName`, `LastName`, `FullName` - suspect identity fields.
+- `Age`, `Gender`, `Country`, `Province` - demographic attributes.
+- `SouthAfricanID`, `CaseNumber` - identity and case tracking keys.
+- `CrimeType`, `RiskLevel`, `CaseStatus` - classification and status fields.
+- `FinancialScore`, `EstimatedFraudAmount_ZAR` - risk and financial exposure metrics.
+- `BankInvolved`, `PreviousOffenses`, `Arrested` - operational and enforcement indicators.
+- `CrimeDate`, `CourtDate` - temporal context for incidents and legal processing.
+- `InvestigatingOfficer`, `StationCode` - investigative ownership and location metadata.
 
 ## Analytical Coverage
 The included SQL queries support a wide range of analysis:
