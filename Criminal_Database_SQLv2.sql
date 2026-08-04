@@ -1,3 +1,9 @@
+/*
+  SA_Crime_Database v2
+  SQL Server schema and analytics for KZN police station criminal cases.
+  Supports analysis, reporting, and visualization in Looker Studio or Power BI.
+*/
+
 CREATE TABLE [KZN_Police_Station v2] (
     RecordID INT PRIMARY KEY,
     FirstName VARCHAR(100),
@@ -23,7 +29,7 @@ CREATE TABLE [KZN_Police_Station v2] (
     StationCode VARCHAR(20)
 );
 
---South Africa Criminal Database - 30 SQL Questions (Questions Only)---
+-- South Africa Criminal Database - 30 analytical queries
 
 --1. Display all records from the CriminalCases table.--
 
