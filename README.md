@@ -1,4 +1,4 @@
-# SA_Crime_Database
+# SA_Crime_Database - https://datastudio.google.com/reporting/562df32a-9cee-429f-bda5-ddd0abe4f03f/page/XCq4F/edit
 Introduction – South Africa Criminal Database (KZN Police Station)
 This project explores the South Africa Criminal Database, focusing on case records from the KZN Police Station dataset. The objective is to transform raw case data into actionable insights that can be visualized in Power BI or Google Looker.
 By running a series of SQL queries (30 analytical questions), we aim to:
