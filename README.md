@@ -11,9 +11,9 @@
 SA_Crime_Database is a South African criminal case analytics repository built on a KZN police station dataset. It delivers a reusable SQL Server schema, advanced T-SQL analysis, and a streamlined path to visual reporting in Google Looker Studio or Power BI.
 
 ## Repository Structure
-- `Crime_Database.sql` — builds the `KZN_Police_Station` database and initial table schema.
-- `Criminal_Database_SQLv2.sql` — builds `KZN_Police_Station v2`, includes computed columns, and contains 30 analytical queries.
-- `README.md` — explains project goals, tools, usage, and schema details.
+- `Crime_Database.sql` - builds the `KZN_Police_Station` database and initial table schema.
+- `Criminal_Database_SQLv2.sql` - builds `KZN_Police_Station v2`, includes computed columns, and contains 30 analytical queries.
+- `README.md` - explains project goals, tools, usage, and schema details.
 
 ## Tools & Technologies
 - Microsoft SQL Server Management Studio (SSMS)
