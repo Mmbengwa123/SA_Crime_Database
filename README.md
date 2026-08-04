@@ -13,8 +13,8 @@ This repository is intended to:
 - Enable stakeholders to identify trends in crime type, province, risk level, financial exposure, and justice outcomes.
 
 ## Contents
-- `Crime_Database.sql` — creates the `KZN_Police_Station` database and table structure.
-- `Criminal_Database_SQLv2.sql` — defines the improved `KZN_Police_Station v2` table, adds computed columns, and includes 30 analytical SQL queries.
+- `Crime_Database.sql` , creates the `KZN_Police_Station` database and table structure.
+- `Criminal_Database_SQLv2.sql` - defines the improved `KZN_Police_Station v2` table, adds computed columns, and includes 30 analytical SQL queries.
 - `README.md` — project documentation and usage notes.
 
 ## Database Schema
