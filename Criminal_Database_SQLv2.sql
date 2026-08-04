@@ -1,8 +1,8 @@
-/*
+
   SA_Crime_Database v2
   SQL Server schema and analytics for KZN police station criminal cases.
   Supports analysis, reporting, and visualization in Looker Studio or Power BI.
-*/
+
 
 CREATE TABLE [KZN_Police_Station v2] (
     RecordID INT PRIMARY KEY,
